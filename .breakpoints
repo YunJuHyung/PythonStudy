@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "practice/chicken.py": [
+      {
+        "id": "ed510964-d7f4-4f0c-be5d-e562df3d6ad0",
+        "line": 7,
+        "version": 1398,
+        "index": 175
+      }
+    ]
+  }
 }
